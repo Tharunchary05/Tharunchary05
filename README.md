@@ -8,17 +8,15 @@
 
 <p align="center">
   <a href="mailto:tharuncharykashivajjala05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sunilpinintti@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-tharuncharykashivajjala05@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/pinintti-sunil-0a5028295/">
+  <a href="https://www.linkedin.com/in/tharunchary-kashivajjala-023b2b282/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/Pininttisunil">
-    <img src="https://img.shields.io/badge/GitHub-Pininttisunil-black?style=for-the-badge&logo=github">
+  <a href="https://github.com/Tharunchary05">
+    <img src="https://img.shields.io/badge/GitHub-Tharunchary05-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://leetcode.com/u/Pinintti_Sunil_14/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
-  </a>
+  
 </p>
 
 
