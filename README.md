@@ -101,7 +101,7 @@
 
 ---
 
-### 💼 [Insurance Fraud Detection](https://github.com/Pininttisunil/AIML/blob/main/AIML_PROJECT.ipynb)  
+### 💼 [Insurance Fraud Detection](https://github.com/Tharunchary05/CSE-AIML/blob/main/AIML_PROJECT.ipynb)  
 🔹 ML-based model to flag fraudulent claims using Decision Trees and Random Forests.  
 *Tech Stack:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
 
@@ -133,10 +133,10 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: [sunilpinintti@gmail.com](mailto:sunilpinintti@gmail.com)  
-- 🔗 LinkedIn: [Pinintti Sunil](https://www.linkedin.com/in/pinintti-sunil-0a5028295/)  
-- 💻 GitHub: [Pininttisunil](https://github.com/Pininttisunil)  
-- 🧠 LeetCode: [Profile](https://leetcode.com/u/Pinintti_Sunil_14/)
+- 📧 Email: [tharuncharykashivajjala05@gmail.com](mailto:tharuncharykashivajjala05@gmail.com)  
+- 🔗 LinkedIn: [Tharunchary kashivajjala](https://www.linkedin.com/in/tharunchary-kashivajjala-023b2b282/)  
+- 💻 GitHub: [Tharunchary05](https://Tharunchary05)  
+
 
 ---
 
@@ -146,4 +146,4 @@
 
 ---
 
-> “The best way to predict the future is to create it.” – Abraham Lincoln
+> “The Future depends on what you do today.” – Mahatma Gandhi
