@@ -2,12 +2,12 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Banner" width="500" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Pinintti Sunil</h1>
+<h1 align="center">Hi 👋, I'm Tharunchary Kashivajjala</h1>
 <h3 align="center">B.Tech CSE @ SR University</h3>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI-ML+Enthusiast;Full+Stack+Developer;Python+%7C+SQL;Cloud+%26+DevOps+Learner;Always+Learning+New+Things"> </p>
 
 <p align="center">
-  <a href="mailto:sunilpinintti@gmail.com">
+  <a href="mailto:tharuncharykashivajjala05@gmail.com">
     <img src="https://img.shields.io/badge/Email-sunilpinintti@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/pinintti-sunil-0a5028295/">
