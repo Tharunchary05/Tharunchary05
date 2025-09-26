@@ -124,9 +124,7 @@
 
 - 🥇 Machine Learning with Python (Mar 2024)  
 - ☁ AWS Academy Cloud Foundations (Mar 2024)  
-- 🔐 Fortinet Cybersecurity Associate (Dec 2024)  
-- 📊 Data Analytics Essentials (Oct 2024)  
-- 📢 Elected Creative Head – Cloud & DevOps Clubs  
+- 🔐 Mastering Data Structures (Jun 2024)
 - 🧠 Participated in 12-hour Hackathon @ SR University
 
 ---
