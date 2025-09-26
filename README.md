@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Banner" width="500" />
+  <img src="https://www.google.com/imgres?q=programmer%20images&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fboy-is-sitting-desk-with-laptop-word-code-it_1177960-38395.jpg%3Fsemt%3Dais_hybrid%26w%3D740%26q%3D80&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&docid=fGhGejc-bkdiaM&tbnid=RHHOBPGO3mOkmM&vet=12ahUKEwio0NPN0_WPAxX6yzgGHYeGJYgQM3oECDQQAA..i&w=740&h=740&hcb=2&ved=2ahUKEwio0NPN0_WPAxX6yzgGHYeGJYgQM3oECDQQAA" alt="Coding Banner" width="500" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tharunchary Kashivajjala</h1>
@@ -95,7 +95,7 @@
 
 ---
 
-### 🩺 [Diabetic Retinopathy Detection](https://github.com/Pininttisunil/AIML/blob/main/Diabetic_retinopathy.ipynb)  
+### 🩺 [Diabetic Retinopathy Detection](https://github.com/Tharunchary05/CSE-AIML/blob/main/Diabetic_retinopathy.ipynb)  
 🔹 Built CNN-based system for early detection of diabetic eye disease with 25% better accuracy.  
 *Tech Stack:* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
 
