@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Banner with Background Animation -->
 <p align="center">
-  <img src="https://i.ibb.co/ksybQnpm/coding-banner.gif" alt="Coding Banner" width="800" />
+  <img src="https://i.ibb.co/yp4KgQ9/matrix-bg.gif" alt="Coding Background Animation" width="100%" />
 </p>
 
 <!-- Intro -->
