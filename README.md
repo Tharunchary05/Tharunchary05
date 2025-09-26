@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\purna\OneDrive\Desktop\hub.jpg" alt="Coding Banner" width="500" />
+  <img src="https://ibb.co/ksybQnpm" alt="Coding Banner" width="500" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tharunchary Kashivajjala</h1>
